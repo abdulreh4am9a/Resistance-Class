@@ -1,0 +1,8 @@
+﻿  driver.cpp
+R:\BS_04071913025_A-3\BS_04071913025_A-3\driver.cpp(3,22): warning C4305: 'argument': truncation from 'double' to 'float'
+R:\BS_04071913025_A-3\BS_04071913025_A-3\driver.cpp(7,41): warning C4305: 'argument': truncation from 'double' to 'float'
+R:\BS_04071913025_A-3\BS_04071913025_A-3\driver.cpp(8,41): warning C4305: 'argument': truncation from 'double' to 'float'
+R:\BS_04071913025_A-3\BS_04071913025_A-3\driver.cpp(10,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  resistance.cpp
+  Generating Code...
+  BS_04071913025_A-3.vcxproj -> R:\BS_04071913025_A-3\Debug\BS_04071913025_A-3.exe
